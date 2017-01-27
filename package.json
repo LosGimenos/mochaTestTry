@@ -1,0 +1,14 @@
+{
+  "name": "your-own",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter min --watch test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
